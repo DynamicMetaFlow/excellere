@@ -1,0 +1,40 @@
+baseurl = "/"
+title = "Excellere"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "Excellere"
+  description = 'Whatever the mind of man can conceive and believe, it can achieve.'
+  logo = "fa-university"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+#[languages.en]
+#languageName = "Excellere"
+#weight = 1
+#title = "Dimension"
+
+#[languages.de]
+#languageName = "Deutsch"
+#weight = 2
+#title = "Dimension"
+#description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+ #               <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
